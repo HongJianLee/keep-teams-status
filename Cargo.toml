@@ -1,0 +1,9 @@
+[package]
+name = "keep-teams-status"
+version = "0.1.0"
+edition = "2021"
+
+[dependencies]
+inputbot = "0.6.0"
+ctrlc = "3.2.0"
+chrono = "0.4"
